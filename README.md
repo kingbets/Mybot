@@ -1,2 +1,1 @@
-# Mybot
-Mybot
+# README for full-featured version
